@@ -8,9 +8,17 @@ Deze map bevat de actuele kruidenvoorraad, vastgelegd op basis van de aangelever
 - Een product kan bij meerdere keukens horen.
 - Indisch/Indonesisch en Indiaas zijn afzonderlijke keukens.
 - De typen zijn: kruid, specerij, kruidenmengsel en smaakmaker.
-- Trassi en Spaanse voedingskleurstof staan als smaakmaker geregistreerd.
+- Het buisje bevat saffloer; echte saffraan is afzonderlijk aanwezig in een klein potje.
 - De samenstelling van viskruiden wordt nog gecontroleerd.
-- De rood-oranje bloemblaadjes zijn als saffloer geregistreerd, niet als echte saffraan.
+
+## Voorraadschaal
+
+- 0: op
+- 1: bijna op
+- 2: laag
+- 3: normaal
+- 4: ruim
+- 5: zeer ruim
 
 ## Overzichten per keuken
 

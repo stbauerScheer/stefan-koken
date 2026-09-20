@@ -19,7 +19,6 @@ Voorraad voor de indiaas keuken. Producten kunnen ook in andere keukenoverzichte
 | Kurkuma | specerij | gemalen | koenjit, curcuma | — |
 | Madras curry | kruidenmengsel | mengsel | — | — |
 | Madras red curry | kruidenmengsel | mengsel | — | — |
-| Saffraan | specerij | draadjes | — | — |
 | Venkelzaad | specerij | heel | — | — |
 | Zwarte kardemom | specerij | heel | — | — |
 | Zwarte peper | specerij | heel | — | — |

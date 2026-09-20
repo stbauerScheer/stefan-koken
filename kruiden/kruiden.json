@@ -608,20 +608,24 @@
       "voorraad": true
     },
     {
-      "id": "saffraan",
-      "naam": "Saffraan",
-      "alternatieveNamen": [],
+      "id": "saffloer",
+      "naam": "Saffloer",
+      "alternatieveNamen": [
+        "nepsaffraan",
+        "Mexicaanse saffraan"
+      ],
       "vorm": [
-        "draadjes"
+        "bloemblaadjes"
       ],
       "type": "specerij",
       "keukens": [
+        "Midden-Oosters",
+        "Turks",
         "Spaans",
-        "Frans",
-        "Italiaans",
-        "Indiaas"
+        "Mexicaans"
       ],
-      "voorraad": true
+      "voorraad": true,
+      "opmerking": "Op basis van de close-up gecorrigeerd: dit is saffloer, geen echte saffraan."
     },
     {
       "id": "salie",

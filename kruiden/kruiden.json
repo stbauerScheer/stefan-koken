@@ -10,7 +10,15 @@
       "kruidenmengsel",
       "smaakmaker"
     ],
-    "note": "Eén product kan bij meerdere keukens horen. Indisch/Indonesisch en Indiaas zijn aparte keukens."
+    "note": "Eén product kan bij meerdere keukens horen. Indisch/Indonesisch en Indiaas zijn aparte keukens. Voorraad is een schaal van 0 tot 5.",
+    "voorraadSchaal": {
+      "0": "op",
+      "1": "bijna op",
+      "2": "laag",
+      "3": "normaal",
+      "4": "ruim",
+      "5": "zeer ruim"
+    }
   },
   "items": [
     {
@@ -26,7 +34,7 @@
       "keukens": [
         "Mexicaans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "basilicum",
@@ -41,7 +49,7 @@
         "Frans",
         "Algemeen"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "bella-italia",
@@ -54,7 +62,7 @@
       "keukens": [
         "Italiaans"
       ],
-      "voorraad": true,
+      "voorraad": 3,
       "opmerking": "Mengsel met knoflook, peper, ui en chili."
     },
     {
@@ -70,7 +78,7 @@
         "Frans",
         "Algemeen"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "cayennepeper",
@@ -85,7 +93,7 @@
         "Indiaas",
         "Algemeen"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "chilipeper",
@@ -105,7 +113,7 @@
         "Turks",
         "Mexicaans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "chipotle",
@@ -118,7 +126,7 @@
       "keukens": [
         "Mexicaans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "dillezaad",
@@ -132,7 +140,7 @@
         "Nederlands",
         "Algemeen"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "dragon",
@@ -145,7 +153,7 @@
       "keukens": [
         "Frans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "five-spice",
@@ -160,7 +168,7 @@
       "keukens": [
         "Chinees"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "foelie",
@@ -176,7 +184,7 @@
         "Frans",
         "Indiaas"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "garam-masala",
@@ -189,7 +197,7 @@
       "keukens": [
         "Indiaas"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "gember",
@@ -207,7 +215,7 @@
         "Thais",
         "Chinees"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "peper-gemengd",
@@ -223,7 +231,7 @@
         "Algemeen",
         "Frans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "gerookt-paprikapoeder-pittig",
@@ -239,7 +247,7 @@
         "Spaans",
         "Mexicaans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "gerookt-paprikapoeder-zoet",
@@ -254,7 +262,7 @@
       "keukens": [
         "Spaans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "jeneverbessen",
@@ -268,7 +276,7 @@
         "Nederlands",
         "Frans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "kaneel",
@@ -286,7 +294,7 @@
         "Turks",
         "Mexicaans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "kardemom",
@@ -303,7 +311,7 @@
         "Thais",
         "Turks"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "kashmiri-chili",
@@ -316,7 +324,7 @@
       "keukens": [
         "Indiaas"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "kemiri",
@@ -333,7 +341,7 @@
       "keukens": [
         "Indisch/Indonesisch"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "knoflookgranulaat",
@@ -352,7 +360,7 @@
         "Mexicaans",
         "Algemeen"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "komijn",
@@ -371,7 +379,7 @@
         "Turks",
         "Mexicaans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "korianderblad",
@@ -388,7 +396,7 @@
         "Turks",
         "Mexicaans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "korianderzaad",
@@ -407,7 +415,7 @@
         "Turks",
         "Mexicaans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "kruidnagel",
@@ -424,7 +432,7 @@
         "Indiaas",
         "Chinees"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "kurkuma",
@@ -442,7 +450,7 @@
         "Indiaas",
         "Thais"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "laurierblad",
@@ -459,7 +467,7 @@
         "Spaans",
         "Indisch/Indonesisch"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "madras-curry",
@@ -472,7 +480,7 @@
       "keukens": [
         "Indiaas"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "madras-red-curry",
@@ -485,7 +493,7 @@
       "keukens": [
         "Indiaas"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "majoraan",
@@ -500,7 +508,7 @@
         "Italiaans",
         "Algemeen"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "munt",
@@ -514,7 +522,7 @@
         "Turks",
         "Algemeen"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "nootmuskaat",
@@ -529,7 +537,7 @@
         "Frans",
         "Indisch/Indonesisch"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "oregano",
@@ -545,7 +553,7 @@
         "Turks",
         "Mexicaans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "peterselie",
@@ -562,7 +570,7 @@
         "Turks",
         "Algemeen"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "piment",
@@ -577,7 +585,7 @@
       "keukens": [
         "Algemeen"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "piment-despelette",
@@ -590,7 +598,7 @@
       "keukens": [
         "Frans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "rozemarijn",
@@ -605,7 +613,7 @@
         "Frans",
         "Spaans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "saffloer",
@@ -624,8 +632,25 @@
         "Spaans",
         "Mexicaans"
       ],
-      "voorraad": true,
+      "voorraad": 3,
       "opmerking": "Op basis van de close-up gecorrigeerd: dit is saffloer, geen echte saffraan."
+    },
+    {
+      "id": "saffraan",
+      "naam": "Saffraan",
+      "alternatieveNamen": [],
+      "vorm": [
+        "draadjes"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Spaans",
+        "Frans",
+        "Italiaans",
+        "Indiaas"
+      ],
+      "voorraad": 3,
+      "opmerking": "Echte saffraan; aanwezig in een klein potje."
     },
     {
       "id": "salie",
@@ -639,7 +664,7 @@
         "Italiaans",
         "Frans"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "sereh",
@@ -655,7 +680,7 @@
         "Indisch/Indonesisch",
         "Thais"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "spaanse-kleurstof",
@@ -670,7 +695,7 @@
       "keukens": [
         "Spaans"
       ],
-      "voorraad": true,
+      "voorraad": 3,
       "opmerking": "Kleurmiddel; geen kruid."
     },
     {
@@ -686,7 +711,7 @@
       "keukens": [
         "Thais"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "trassi",
@@ -701,7 +726,7 @@
       "keukens": [
         "Indisch/Indonesisch"
       ],
-      "voorraad": true,
+      "voorraad": 3,
       "opmerking": "Gefermenteerde garnalenpasta/-poeder; geen kruid."
     },
     {
@@ -718,7 +743,7 @@
         "Turks",
         "Chinees"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "viskruiden",
@@ -734,7 +759,7 @@
         "Nederlands",
         "Algemeen"
       ],
-      "voorraad": true,
+      "voorraad": 3,
       "samenstelling": null,
       "opmerking": "Samenstelling nog controleren op de verpakking."
     },
@@ -753,7 +778,7 @@
         "Indisch/Indonesisch",
         "Algemeen"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "zwarte-kardemom",
@@ -766,7 +791,7 @@
       "keukens": [
         "Indiaas"
       ],
-      "voorraad": true
+      "voorraad": 3
     },
     {
       "id": "zwarte-peper",
@@ -786,7 +811,7 @@
         "Indiaas",
         "Indisch/Indonesisch"
       ],
-      "voorraad": true
+      "voorraad": 3
     }
   ]
 }

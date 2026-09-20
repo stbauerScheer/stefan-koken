@@ -13,6 +13,15 @@ Deze map bevat de voorraad uit de aangeleverde foto's.
 
 Alleen duidelijk herkenbare producten zijn vastgelegd. Onleesbare handgeschreven flesjes zijn niet ingevuld.
 
+## Voorraadschaal
+
+- 0: op
+- 1: bijna op
+- 2: laag
+- 3: normaal
+- 4: ruim
+- 5: zeer ruim
+
 ## Overzichten per keuken
 
 - [Algemeen](per-keuken/algemeen.md)

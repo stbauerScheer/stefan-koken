@@ -10,6 +10,7 @@ Deze map bevat de actuele kruidenvoorraad, vastgelegd op basis van de aangelever
 - De typen zijn: kruid, specerij, kruidenmengsel en smaakmaker.
 - Trassi en Spaanse voedingskleurstof staan als smaakmaker geregistreerd.
 - De samenstelling van viskruiden wordt nog gecontroleerd.
+- De rood-oranje bloemblaadjes zijn als saffloer geregistreerd, niet als echte saffraan.
 
 ## Overzichten per keuken
 
@@ -20,6 +21,7 @@ Deze map bevat de actuele kruidenvoorraad, vastgelegd op basis van de aangelever
 - [Indisch/Indonesisch](per-keuken/indisch-indonesisch.md)
 - [Italiaans](per-keuken/italiaans.md)
 - [Mexicaans](per-keuken/mexicaans.md)
+- [Midden-Oosters](per-keuken/midden-oosters.md)
 - [Nederlands](per-keuken/nederlands.md)
 - [Spaans](per-keuken/spaans.md)
 - [Thais](per-keuken/thais.md)

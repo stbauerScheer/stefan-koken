@@ -15,3 +15,4 @@ Voorraad voor de mexicaans keuken. Producten kunnen ook in andere keukenoverzich
 | Korianderblad | kruid | gedroogd | — | — |
 | Korianderzaad | specerij | heel, gemalen | ketoembar | — |
 | Oregano | kruid | gedroogd | — | — |
+| Saffloer | specerij | bloemblaadjes | nepsaffraan, Mexicaanse saffraan | Op basis van de close-up gecorrigeerd: dit is saffloer, geen echte saffraan. |

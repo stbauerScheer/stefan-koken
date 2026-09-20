@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.0",
+  "title": "Sauzen en vloeibare smaakmakers Stefan",
+  "updatedAt": "2026-09-20",
+  "source": "Foto-inventaris",
+  "rules": {
+    "itemTypes": [
+      "saus",
+      "azijn",
+      "olie",
+      "smaakmaker",
+      "melasse",
+      "kookwijn"
+    ],
+    "note": "Alleen duidelijk herkenbare producten zijn opgenomen. Onleesbare handgeschreven flesjes zijn bewust weggelaten."
+  },
+  "items": [
+    {
+      "id": "aceto-di-modena-8-jaar",
+      "naam": "Aceto di Modena, 8 jaar",
+      "merk": null,
+      "type": "azijn",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": true,
+      "opmerking": "Handgeschreven fles; omschrijving op fles: Aceto di Modena 8 jr."
+    },
+    {
+      "id": "condimento-balsamico-bianco-riserva",
+      "naam": "Condimento Balsamico Bianco Riserva",
+      "merk": "Cresto",
+      "type": "azijn",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": true,
+      "opmerking": "Fles gemarkeerd met 'VLEES'."
+    },
+    {
+      "id": "extra-vergine-olijfolie-mild",
+      "naam": "Extra vergine olijfolie, mild",
+      "merk": "BMZ",
+      "type": "olie",
+      "keukens": [
+        "Italiaans",
+        "Algemeen"
+      ],
+      "voorraad": true
+    },
+    {
+      "id": "granaatappelmelasse",
+      "naam": "Granaatappelmelasse",
+      "merk": "Nadia & Merijn's SOUQ",
+      "type": "melasse",
+      "keukens": [
+        "Midden-Oosters",
+        "Turks"
+      ],
+      "voorraad": true
+    },
+    {
+      "id": "hot-pepper-sauce",
+      "naam": "Hot Pepper Sauce",
+      "merk": null,
+      "type": "saus",
+      "keukens": [
+        "Amerikaans",
+        "Algemeen"
+      ],
+      "voorraad": true,
+      "opmerking": "Merk op de foto niet betrouwbaar leesbaar."
+    },
+    {
+      "id": "louisiana-gold-pepper-sauce",
+      "naam": "Louisiana Gold Pepper Sauce",
+      "merk": "Louisiana Gold",
+      "type": "saus",
+      "keukens": [
+        "Amerikaans"
+      ],
+      "voorraad": true
+    },
+    {
+      "id": "madeira",
+      "naam": "Madeira",
+      "merk": null,
+      "type": "kookwijn",
+      "keukens": [
+        "Portugees",
+        "Algemeen"
+      ],
+      "voorraad": true,
+      "opmerking": "Kleine fles; te gebruiken als kookwijn. Merk niet betrouwbaar leesbaar."
+    },
+    {
+      "id": "ume-su",
+      "naam": "Organic Japanese Ume Su",
+      "merk": "Clearspring",
+      "type": "smaakmaker",
+      "keukens": [
+        "Japans"
+      ],
+      "voorraad": true,
+      "opmerking": "Japanse ume-pruimensmaakmaker; geen gewone azijn."
+    },
+    {
+      "id": "yuzu-ponzu",
+      "naam": "Organic Yuzu Ponzu",
+      "merk": "Clearspring",
+      "type": "saus",
+      "keukens": [
+        "Japans"
+      ],
+      "voorraad": true
+    },
+    {
+      "id": "sesamolie",
+      "naam": "Sesamolie",
+      "merk": "Royal Mail",
+      "type": "olie",
+      "keukens": [
+        "Chinees",
+        "Japans",
+        "Thais",
+        "Indisch/Indonesisch"
+      ],
+      "voorraad": true
+    },
+    {
+      "id": "tabasco-pepper-sauce",
+      "naam": "Tabasco Brand Pepper Sauce",
+      "merk": "McIlhenny Co.",
+      "type": "saus",
+      "keukens": [
+        "Amerikaans",
+        "Algemeen"
+      ],
+      "voorraad": true
+    },
+    {
+      "id": "thaise-rijstazijn",
+      "naam": "Thai Rice Vinegar",
+      "merk": "OnOff Spices",
+      "type": "azijn",
+      "keukens": [
+        "Thais"
+      ],
+      "voorraad": true
+    },
+    {
+      "id": "zwarte-truffelolie",
+      "naam": "Zwarte-truffelolie",
+      "merk": "Giuliano Tartufi",
+      "type": "olie",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": true,
+      "aantalZichtbaar": 2,
+      "opmerking": "Tartufo Nero; olie op basis van extra vergine olijfolie."
+    }
+  ]
+}

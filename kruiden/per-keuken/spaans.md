@@ -11,6 +11,6 @@ Voorraad voor de spaans keuken. Producten kunnen ook in andere keukenoverzichten
 | Laurierblad | kruid | heel | — | — |
 | Oregano | kruid | gedroogd | — | — |
 | Rozemarijn | kruid | gedroogd | — | — |
-| Saffraan | specerij | draadjes | — | — |
+| Saffloer | specerij | bloemblaadjes | nepsaffraan, Mexicaanse saffraan | Op basis van de close-up gecorrigeerd: dit is saffloer, geen echte saffraan. |
 | Spaanse voedingskleurstof | smaakmaker | poeder | colorante alimentario | Kleurmiddel; geen kruid. |
 | Zwarte peper | specerij | heel | — | — |

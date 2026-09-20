@@ -2,7 +2,7 @@
 
 Voorraad voor de nederlands keuken. Producten kunnen in meerdere keukenoverzichten voorkomen.
 
-| Product | Merk | Type | Opmerking |
-|---|---|---|---|
-| Natuurazijn geel | Kühne | azijn | — |
-| Rieslingazijn | Het Azijn Atelier | azijn | — |
+| Product | Merk | Type | Voorraad | Opmerking |
+|---|---|---|---:|---|
+| Natuurazijn geel | Kühne | azijn | 3 | — |
+| Rieslingazijn | Het Azijn Atelier | azijn | 3 | — |

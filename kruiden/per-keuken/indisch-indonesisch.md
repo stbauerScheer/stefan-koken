@@ -2,22 +2,22 @@
 
 Voorraad voor de indisch/indonesisch keuken. Producten kunnen ook in andere keukenoverzichten voorkomen.
 
-| Product | Type | Vorm | Alternatieve naam | Opmerking |
-|---|---|---|---|---|
-| Chilipeper | specerij | gemalen | — | — |
-| Foelie | specerij | gemalen | — | — |
-| Gember | specerij | gemalen | djahe | — |
-| Kaneel | specerij | gemalen | — | — |
-| Kardemom | specerij | heel, gemalen | — | — |
-| Kemiri | specerij | heel, gemalen | kemirinoot, candlenut | — |
-| Komijn | specerij | heel, gemalen | djinten | — |
-| Korianderblad | kruid | gedroogd | — | — |
-| Korianderzaad | specerij | heel, gemalen | ketoembar | — |
-| Kruidnagel | specerij | heel | — | — |
-| Kurkuma | specerij | gemalen | koenjit, curcuma | — |
-| Laurierblad | kruid | heel | — | — |
-| Nootmuskaat | specerij | gemalen | — | — |
-| Sereh | kruid | gedroogd | citroengras | — |
-| Trassi | smaakmaker | poeder | trassie | Gefermenteerde garnalenpasta/-poeder; geen kruid. |
-| Witte peper | specerij | heel | — | — |
-| Zwarte peper | specerij | heel | — | — |
+| Product | Type | Vorm | Voorraad | Alternatieve naam | Opmerking |
+|---|---|---:|---:|---|---|
+| Chilipeper | specerij | gemalen | 3 | — | — |
+| Foelie | specerij | gemalen | 3 | — | — |
+| Gember | specerij | gemalen | 3 | djahe | — |
+| Kaneel | specerij | gemalen | 3 | — | — |
+| Kardemom | specerij | heel, gemalen | 3 | — | — |
+| Kemiri | specerij | heel, gemalen | 3 | kemirinoot, candlenut | — |
+| Komijn | specerij | heel, gemalen | 3 | djinten | — |
+| Korianderblad | kruid | gedroogd | 3 | — | — |
+| Korianderzaad | specerij | heel, gemalen | 3 | ketoembar | — |
+| Kruidnagel | specerij | heel | 3 | — | — |
+| Kurkuma | specerij | gemalen | 3 | koenjit, curcuma | — |
+| Laurierblad | kruid | heel | 3 | — | — |
+| Nootmuskaat | specerij | gemalen | 3 | — | — |
+| Sereh | kruid | gedroogd | 3 | citroengras | — |
+| Trassi | smaakmaker | poeder | 3 | trassie | Gefermenteerde garnalenpasta/-poeder; geen kruid. |
+| Witte peper | specerij | heel | 3 | — | — |
+| Zwarte peper | specerij | heel | 3 | — | — |

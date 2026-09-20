@@ -13,7 +13,6 @@ Voorraad voor de italiaans keuken. Producten kunnen ook in andere keukenoverzich
 | Oregano | kruid | gedroogd | — | — |
 | Peterselie | kruid | gedroogd | — | — |
 | Rozemarijn | kruid | gedroogd | — | — |
-| Saffraan | specerij | draadjes | — | — |
 | Salie | kruid | gedroogd | — | — |
 | Venkelzaad | specerij | heel | — | — |
 | Zwarte peper | specerij | heel | — | — |

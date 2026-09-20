@@ -18,7 +18,6 @@ Voorraad voor de frans keuken. Producten kunnen ook in andere keukenoverzichten 
 | Peterselie | kruid | gedroogd | — | — |
 | Piment d’Espelette AOP | specerij | gemalen | — | — |
 | Rozemarijn | kruid | gedroogd | — | — |
-| Saffraan | specerij | draadjes | — | — |
 | Salie | kruid | gedroogd | — | — |
 | Witte peper | specerij | heel | — | — |
 | Zwarte peper | specerij | heel | — | — |

@@ -1,0 +1,817 @@
+{
+  "schemaVersion": "1.0",
+  "title": "Kruidenvoorraad Stefan",
+  "updatedAt": "2026-09-20",
+  "source": "Foto-inventaris",
+  "rules": {
+    "itemTypes": [
+      "kruid",
+      "specerij",
+      "kruidenmengsel",
+      "smaakmaker"
+    ],
+    "note": "Eén product kan bij meerdere keukens horen. Indisch/Indonesisch en Indiaas zijn aparte keukens. Voorraad is een schaal van 0 tot 5.",
+    "voorraadSchaal": {
+      "0": "op",
+      "1": "bijna op",
+      "2": "laag",
+      "3": "normaal",
+      "4": "ruim",
+      "5": "zeer ruim"
+    }
+  },
+  "items": [
+    {
+      "id": "anchopeper",
+      "naam": "Anchopeper",
+      "alternatieveNamen": [
+        "ancho"
+      ],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Mexicaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "basilicum",
+      "naam": "Basilicum",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Italiaans",
+        "Frans",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "bella-italia",
+      "naam": "Bella Italia",
+      "alternatieveNamen": [],
+      "vorm": [
+        "mengsel"
+      ],
+      "type": "kruidenmengsel",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": 3,
+      "opmerking": "Mengsel met knoflook, peper, ui en chili."
+    },
+    {
+      "id": "bieslook",
+      "naam": "Bieslook",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Nederlands",
+        "Frans",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "cayennepeper",
+      "naam": "Cayennepeper",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Mexicaans",
+        "Indiaas",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "chilipeper",
+      "naam": "Chilipeper",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indisch/Indonesisch",
+        "Indiaas",
+        "Thais",
+        "Chinees",
+        "Italiaans",
+        "Spaans",
+        "Turks",
+        "Mexicaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "chipotle",
+      "naam": "Chipotle",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Mexicaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "dillezaad",
+      "naam": "Dillezaad",
+      "alternatieveNamen": [],
+      "vorm": [
+        "heel"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Nederlands",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "dragon",
+      "naam": "Dragon",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Frans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "five-spice",
+      "naam": "Five spice",
+      "alternatieveNamen": [
+        "vijfkruidenpoeder"
+      ],
+      "vorm": [
+        "mengsel"
+      ],
+      "type": "kruidenmengsel",
+      "keukens": [
+        "Chinees"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "foelie",
+      "naam": "Foelie",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indisch/Indonesisch",
+        "Nederlands",
+        "Frans",
+        "Indiaas"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "garam-masala",
+      "naam": "Garam masala",
+      "alternatieveNamen": [],
+      "vorm": [
+        "mengsel"
+      ],
+      "type": "kruidenmengsel",
+      "keukens": [
+        "Indiaas"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "gember",
+      "naam": "Gember",
+      "alternatieveNamen": [
+        "djahe"
+      ],
+      "vorm": [
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indisch/Indonesisch",
+        "Indiaas",
+        "Thais",
+        "Chinees"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "peper-gemengd",
+      "naam": "Gemengde peperkorrels",
+      "alternatieveNamen": [
+        "vierseizoenenpeper"
+      ],
+      "vorm": [
+        "heel"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Algemeen",
+        "Frans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "gerookt-paprikapoeder-pittig",
+      "naam": "Gerookt paprikapoeder, pittig",
+      "alternatieveNamen": [
+        "pimentón ahumado picante"
+      ],
+      "vorm": [
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Spaans",
+        "Mexicaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "gerookt-paprikapoeder-zoet",
+      "naam": "Gerookt paprikapoeder, zoet",
+      "alternatieveNamen": [
+        "pimentón ahumado dulce"
+      ],
+      "vorm": [
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Spaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "jeneverbessen",
+      "naam": "Jeneverbessen",
+      "alternatieveNamen": [],
+      "vorm": [
+        "heel"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Nederlands",
+        "Frans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "kaneel",
+      "naam": "Kaneel",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indisch/Indonesisch",
+        "Nederlands",
+        "Frans",
+        "Indiaas",
+        "Turks",
+        "Mexicaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "kardemom",
+      "naam": "Kardemom",
+      "alternatieveNamen": [],
+      "vorm": [
+        "heel",
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indisch/Indonesisch",
+        "Indiaas",
+        "Thais",
+        "Turks"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "kashmiri-chili",
+      "naam": "Kashmiri chili",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indiaas"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "kemiri",
+      "naam": "Kemiri",
+      "alternatieveNamen": [
+        "kemirinoot",
+        "candlenut"
+      ],
+      "vorm": [
+        "heel",
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indisch/Indonesisch"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "knoflookgranulaat",
+      "naam": "Knoflookgranulaat",
+      "alternatieveNamen": [
+        "garlic granules"
+      ],
+      "vorm": [
+        "granulaat"
+      ],
+      "type": "smaakmaker",
+      "keukens": [
+        "Italiaans",
+        "Spaans",
+        "Turks",
+        "Mexicaans",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "komijn",
+      "naam": "Komijn",
+      "alternatieveNamen": [
+        "djinten"
+      ],
+      "vorm": [
+        "heel",
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indisch/Indonesisch",
+        "Indiaas",
+        "Turks",
+        "Mexicaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "korianderblad",
+      "naam": "Korianderblad",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Indisch/Indonesisch",
+        "Indiaas",
+        "Thais",
+        "Turks",
+        "Mexicaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "korianderzaad",
+      "naam": "Korianderzaad",
+      "alternatieveNamen": [
+        "ketoembar"
+      ],
+      "vorm": [
+        "heel",
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indisch/Indonesisch",
+        "Indiaas",
+        "Turks",
+        "Mexicaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "kruidnagel",
+      "naam": "Kruidnagel",
+      "alternatieveNamen": [],
+      "vorm": [
+        "heel"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indisch/Indonesisch",
+        "Nederlands",
+        "Frans",
+        "Indiaas",
+        "Chinees"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "kurkuma",
+      "naam": "Kurkuma",
+      "alternatieveNamen": [
+        "koenjit",
+        "curcuma"
+      ],
+      "vorm": [
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indisch/Indonesisch",
+        "Indiaas",
+        "Thais"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "laurierblad",
+      "naam": "Laurierblad",
+      "alternatieveNamen": [],
+      "vorm": [
+        "heel"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Nederlands",
+        "Frans",
+        "Italiaans",
+        "Spaans",
+        "Indisch/Indonesisch"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "madras-curry",
+      "naam": "Madras curry",
+      "alternatieveNamen": [],
+      "vorm": [
+        "mengsel"
+      ],
+      "type": "kruidenmengsel",
+      "keukens": [
+        "Indiaas"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "madras-red-curry",
+      "naam": "Madras red curry",
+      "alternatieveNamen": [],
+      "vorm": [
+        "mengsel"
+      ],
+      "type": "kruidenmengsel",
+      "keukens": [
+        "Indiaas"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "majoraan",
+      "naam": "Majoraan",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Frans",
+        "Italiaans",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "munt",
+      "naam": "Munt",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Turks",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "nootmuskaat",
+      "naam": "Nootmuskaat",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Nederlands",
+        "Frans",
+        "Indisch/Indonesisch"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "oregano",
+      "naam": "Oregano",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Italiaans",
+        "Spaans",
+        "Turks",
+        "Mexicaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "peterselie",
+      "naam": "Peterselie",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Nederlands",
+        "Frans",
+        "Italiaans",
+        "Turks",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "piment",
+      "naam": "Piment",
+      "alternatieveNamen": [
+        "allspice"
+      ],
+      "vorm": [
+        "heel"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "piment-despelette",
+      "naam": "Piment d’Espelette AOP",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gemalen"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Frans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "rozemarijn",
+      "naam": "Rozemarijn",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Italiaans",
+        "Frans",
+        "Spaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "saffloer",
+      "naam": "Saffloer",
+      "alternatieveNamen": [
+        "nepsaffraan",
+        "Mexicaanse saffraan"
+      ],
+      "vorm": [
+        "bloemblaadjes"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Midden-Oosters",
+        "Turks",
+        "Spaans",
+        "Mexicaans"
+      ],
+      "voorraad": 3,
+      "opmerking": "Op basis van de close-up gecorrigeerd: dit is saffloer, geen echte saffraan."
+    },
+    {
+      "id": "saffraan",
+      "naam": "Saffraan",
+      "alternatieveNamen": [],
+      "vorm": [
+        "draadjes"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Spaans",
+        "Frans",
+        "Italiaans",
+        "Indiaas"
+      ],
+      "voorraad": 3,
+      "opmerking": "Echte saffraan; aanwezig in een klein potje."
+    },
+    {
+      "id": "salie",
+      "naam": "Salie",
+      "alternatieveNamen": [],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Italiaans",
+        "Frans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "sereh",
+      "naam": "Sereh",
+      "alternatieveNamen": [
+        "citroengras"
+      ],
+      "vorm": [
+        "gedroogd"
+      ],
+      "type": "kruid",
+      "keukens": [
+        "Indisch/Indonesisch",
+        "Thais"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "spaanse-kleurstof",
+      "naam": "Spaanse voedingskleurstof",
+      "alternatieveNamen": [
+        "colorante alimentario"
+      ],
+      "vorm": [
+        "poeder"
+      ],
+      "type": "smaakmaker",
+      "keukens": [
+        "Spaans"
+      ],
+      "voorraad": 3,
+      "opmerking": "Kleurmiddel; geen kruid."
+    },
+    {
+      "id": "thai-green-curry",
+      "naam": "Thai green curry",
+      "alternatieveNamen": [
+        "Thaise groene curry"
+      ],
+      "vorm": [
+        "mengsel"
+      ],
+      "type": "kruidenmengsel",
+      "keukens": [
+        "Thais"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "trassi",
+      "naam": "Trassi",
+      "alternatieveNamen": [
+        "trassie"
+      ],
+      "vorm": [
+        "poeder"
+      ],
+      "type": "smaakmaker",
+      "keukens": [
+        "Indisch/Indonesisch"
+      ],
+      "voorraad": 3,
+      "opmerking": "Gefermenteerde garnalenpasta/-poeder; geen kruid."
+    },
+    {
+      "id": "venkelzaad",
+      "naam": "Venkelzaad",
+      "alternatieveNamen": [],
+      "vorm": [
+        "heel"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Italiaans",
+        "Indiaas",
+        "Turks",
+        "Chinees"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "viskruiden",
+      "naam": "Viskruiden",
+      "alternatieveNamen": [
+        "V.S."
+      ],
+      "vorm": [
+        "mengsel"
+      ],
+      "type": "kruidenmengsel",
+      "keukens": [
+        "Nederlands",
+        "Algemeen"
+      ],
+      "voorraad": 3,
+      "samenstelling": null,
+      "opmerking": "Samenstelling nog controleren op de verpakking."
+    },
+    {
+      "id": "witte-peper",
+      "naam": "Witte peper",
+      "alternatieveNamen": [],
+      "vorm": [
+        "heel"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Nederlands",
+        "Frans",
+        "Chinees",
+        "Indisch/Indonesisch",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "zwarte-kardemom",
+      "naam": "Zwarte kardemom",
+      "alternatieveNamen": [],
+      "vorm": [
+        "heel"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Indiaas"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "zwarte-peper",
+      "naam": "Zwarte peper",
+      "alternatieveNamen": [],
+      "vorm": [
+        "heel"
+      ],
+      "type": "specerij",
+      "keukens": [
+        "Algemeen",
+        "Nederlands",
+        "Frans",
+        "Italiaans",
+        "Spaans",
+        "Turks",
+        "Indiaas",
+        "Indisch/Indonesisch"
+      ],
+      "voorraad": 3
+    }
+  ]
+}

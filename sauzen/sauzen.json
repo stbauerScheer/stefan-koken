@@ -1,0 +1,303 @@
+{
+  "schemaVersion": "1.0",
+  "title": "Sauzen en vloeibare smaakmakers Stefan",
+  "updatedAt": "2026-09-20",
+  "source": "Foto-inventaris",
+  "rules": {
+    "itemTypes": [
+      "saus",
+      "azijn",
+      "olie",
+      "smaakmaker",
+      "melasse",
+      "kookwijn"
+    ],
+    "note": "Alleen duidelijk herkenbare producten zijn opgenomen. Onleesbare handgeschreven flesjes zijn bewust weggelaten. Voorraad is een schaal van 0 tot 5.",
+    "voorraadSchaal": {
+      "0": "op",
+      "1": "bijna op",
+      "2": "laag",
+      "3": "normaal",
+      "4": "ruim",
+      "5": "zeer ruim"
+    }
+  },
+  "items": [
+    {
+      "id": "aceto-balsamico-di-modena-bertolli",
+      "naam": "Aceto Balsamico di Modena",
+      "merk": "Bertolli",
+      "type": "azijn",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "aceto-di-modena-8-jaar",
+      "naam": "Aceto di Modena, 8 jaar",
+      "merk": null,
+      "type": "azijn",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": 3,
+      "opmerking": "Handgeschreven fles; omschrijving op fles: Aceto di Modena 8 jr."
+    },
+    {
+      "id": "aceto-di-vino-bianco",
+      "naam": "Aceto di Vino Bianco",
+      "merk": "La Bio Idea",
+      "type": "azijn",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": 3,
+      "opmerking": "Biologische wittewijnazijn."
+    },
+    {
+      "id": "aceto-di-vino-rosso",
+      "naam": "Aceto di Vino Rosso",
+      "merk": "La Bio Idea",
+      "type": "azijn",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": 3,
+      "opmerking": "Biologische rodewijnazijn."
+    },
+    {
+      "id": "condimento-balsamico-bianco-riserva",
+      "naam": "Condimento Balsamico Bianco Riserva",
+      "merk": "Cresto",
+      "type": "azijn",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": 3,
+      "opmerking": "Fles gemarkeerd met 'VLEES'."
+    },
+    {
+      "id": "crema-di-balsamico-classica",
+      "naam": "Crema di Balsamico Classica",
+      "merk": "Casanova",
+      "type": "saus",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "extra-vergine-olijfolie-arbequina",
+      "naam": "Extra vergine olijfolie Arbequina",
+      "merk": "Mallafré",
+      "type": "olie",
+      "keukens": [
+        "Spaans",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "extra-vergine-olijfolie-granfruttato",
+      "naam": "Extra vergine olijfolie GranFruttato",
+      "merk": "Monini",
+      "type": "olie",
+      "keukens": [
+        "Italiaans",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "extra-vergine-olijfolie-taggiasca",
+      "naam": "Extra vergine olijfolie Taggiasca",
+      "merk": null,
+      "type": "olie",
+      "keukens": [
+        "Italiaans",
+        "Algemeen"
+      ],
+      "voorraad": 3,
+      "opmerking": "Merk op de foto niet met zekerheid vastgesteld."
+    },
+    {
+      "id": "extra-vergine-olijfolie-mild",
+      "naam": "Extra vergine olijfolie, mild",
+      "merk": "BMZ",
+      "type": "olie",
+      "keukens": [
+        "Italiaans",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "gearomatiseerde-olie-oliva",
+      "naam": "Gearomatiseerde olie",
+      "merk": "O(l)iva",
+      "type": "olie",
+      "keukens": [
+        "Spaans",
+        "Italiaans",
+        "Algemeen"
+      ],
+      "voorraad": 3,
+      "opmerking": "Sojaolie, druivenpitolie, knoflook, basilicum, extra vergine olijfolie en Spaanse rode peper."
+    },
+    {
+      "id": "granaatappelmelasse",
+      "naam": "Granaatappelmelasse",
+      "merk": "Nadia & Merijn's SOUQ",
+      "type": "melasse",
+      "keukens": [
+        "Midden-Oosters",
+        "Turks"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "hot-pepper-sauce",
+      "naam": "Hot Pepper Sauce",
+      "merk": null,
+      "type": "saus",
+      "keukens": [
+        "Amerikaans",
+        "Algemeen"
+      ],
+      "voorraad": 3,
+      "opmerking": "Merk op de foto niet betrouwbaar leesbaar."
+    },
+    {
+      "id": "louisiana-gold-pepper-sauce",
+      "naam": "Louisiana Gold Pepper Sauce",
+      "merk": "Louisiana Gold",
+      "type": "saus",
+      "keukens": [
+        "Amerikaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "madeira",
+      "naam": "Madeira",
+      "merk": null,
+      "type": "kookwijn",
+      "keukens": [
+        "Portugees",
+        "Algemeen"
+      ],
+      "voorraad": 3,
+      "opmerking": "Kleine fles; te gebruiken als kookwijn. Merk niet betrouwbaar leesbaar."
+    },
+    {
+      "id": "natuurazijn-geel",
+      "naam": "Natuurazijn geel",
+      "merk": "Kühne",
+      "type": "azijn",
+      "keukens": [
+        "Nederlands",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "crema-di-balsamico-organic",
+      "naam": "Organic Crema di Balsamico",
+      "merk": "Terroir",
+      "type": "saus",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "ume-su",
+      "naam": "Organic Japanese Ume Su",
+      "merk": "Clearspring",
+      "type": "smaakmaker",
+      "keukens": [
+        "Japans"
+      ],
+      "voorraad": 3,
+      "opmerking": "Japanse ume-pruimensmaakmaker; geen gewone azijn."
+    },
+    {
+      "id": "yuzu-ponzu",
+      "naam": "Organic Yuzu Ponzu",
+      "merk": "Clearspring",
+      "type": "saus",
+      "keukens": [
+        "Japans"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "rieslingazijn",
+      "naam": "Rieslingazijn",
+      "merk": "Het Azijn Atelier",
+      "type": "azijn",
+      "keukens": [
+        "Nederlands",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "sesamolie",
+      "naam": "Sesamolie",
+      "merk": "Royal Mail",
+      "type": "olie",
+      "keukens": [
+        "Chinees",
+        "Japans",
+        "Thais",
+        "Indisch/Indonesisch"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "tabasco-pepper-sauce",
+      "naam": "Tabasco Brand Pepper Sauce",
+      "merk": "McIlhenny Co.",
+      "type": "saus",
+      "keukens": [
+        "Amerikaans",
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "thaise-rijstazijn",
+      "naam": "Thai Rice Vinegar",
+      "merk": "OnOff Spices",
+      "type": "azijn",
+      "keukens": [
+        "Thais"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "zonnebloemolie",
+      "naam": "Zonnebloemolie",
+      "merk": "Reddy",
+      "type": "olie",
+      "keukens": [
+        "Algemeen"
+      ],
+      "voorraad": 3
+    },
+    {
+      "id": "zwarte-truffelolie",
+      "naam": "Zwarte-truffelolie",
+      "merk": "Giuliano Tartufi",
+      "type": "olie",
+      "keukens": [
+        "Italiaans"
+      ],
+      "voorraad": 3,
+      "aantalZichtbaar": 2,
+      "opmerking": "Tartufo Nero; olie op basis van extra vergine olijfolie."
+    }
+  ]
+}

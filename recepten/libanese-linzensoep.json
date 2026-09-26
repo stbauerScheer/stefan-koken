@@ -1,0 +1,152 @@
+{
+  "id": "libanese-linzensoep",
+  "titel": "Libanese linzensoep (Shorbat Adas)",
+  "gang": "Hoofdgerecht",
+  "keuken": "Midden-Oosters",
+  "personen": 4,
+  "apparatuur": "Instant Pot Duo",
+  "bereidingstijd_minuten": 55,
+  "opbrengst_ml_benadering": [
+    1900,
+    2100
+  ],
+  "bron": "https://www.contentednesscooking.com/lebanese-lentil-soup/",
+  "verhoudingen": {
+    "rode_linzen_g": 190,
+    "witte_rijst_g": 65,
+    "groentebouillon_ml": 1560
+  },
+  "ingredienten": [
+    {
+      "groep": "Vers",
+      "naam": "gele ui",
+      "hoeveelheid": 2,
+      "eenheid": "middelgrote",
+      "bewerking": "grof gesneden"
+    },
+    {
+      "groep": "Vers",
+      "naam": "wortel",
+      "hoeveelheid": 1,
+      "eenheid": "grote",
+      "bewerking": "grof gesneden"
+    },
+    {
+      "groep": "Vers",
+      "naam": "knoflook",
+      "hoeveelheid": 4,
+      "eenheid": "tenen",
+      "bewerking": "grof gesneden"
+    },
+    {
+      "groep": "Vers",
+      "naam": "citroen",
+      "hoeveelheid": 0.5,
+      "eenheid": "stuk",
+      "bewerking": "uitgeperst"
+    },
+    {
+      "groep": "Linzen en rijst",
+      "naam": "rode linzen",
+      "hoeveelheid": 190,
+      "eenheid": "g",
+      "bewerking": "afgespoeld"
+    },
+    {
+      "groep": "Linzen en rijst",
+      "naam": "witte rijst",
+      "hoeveelheid": 65,
+      "eenheid": "g",
+      "bewerking": "ongekookt, liefst rondkorrelig"
+    },
+    {
+      "groep": "Kruiden en smaakmakers",
+      "naam": "olijfolie",
+      "hoeveelheid": 3,
+      "eenheid": "el"
+    },
+    {
+      "groep": "Kruiden en smaakmakers",
+      "naam": "gemalen komijn",
+      "hoeveelheid": 2,
+      "eenheid": "tl"
+    },
+    {
+      "groep": "Kruiden en smaakmakers",
+      "naam": "gemalen chilipeper",
+      "hoeveelheid": 0.25,
+      "eenheid": "tl"
+    },
+    {
+      "groep": "Kruiden en smaakmakers",
+      "naam": "gedroogde peterselie",
+      "hoeveelheid": 1,
+      "eenheid": "tl"
+    },
+    {
+      "groep": "Kruiden en smaakmakers",
+      "naam": "tomatenpuree",
+      "hoeveelheid": 142,
+      "eenheid": "g"
+    },
+    {
+      "groep": "Kruiden en smaakmakers",
+      "naam": "groentebouillon",
+      "hoeveelheid": 1560,
+      "eenheid": "ml"
+    },
+    {
+      "groep": "Kruiden en smaakmakers",
+      "naam": "zout en zwarte peper",
+      "hoeveelheid": null,
+      "eenheid": "naar smaak"
+    }
+  ],
+  "bereiding": [
+    {
+      "onderdeel": "Basis",
+      "stap": 1,
+      "tekst": "Kies Sauté. Bak de 2 uien en de wortel in 3 el olijfolie 8–10 minuten tot de ui goudbruin is; roer af en toe."
+    },
+    {
+      "onderdeel": "Basis",
+      "stap": 2,
+      "tekst": "Voeg 4 tenen knoflook toe en bak 1–2 minuten mee."
+    },
+    {
+      "onderdeel": "Basis",
+      "stap": 3,
+      "tekst": "Voeg 2 tl gemalen komijn en ¼ tl gemalen chilipeper toe en roer 30–60 seconden tot de specerijen geuren."
+    },
+    {
+      "onderdeel": "Basis",
+      "stap": 4,
+      "tekst": "Voeg 142 g tomatenpuree toe en bak al roerend 1 minuut mee."
+    },
+    {
+      "onderdeel": "Onder druk garen",
+      "stap": 5,
+      "tekst": "Blus af met een scheut van de 1.560 ml groentebouillon en schraap de bodem schoon. Voeg de rest van de bouillon, 190 g linzen, 65 g rijst en 1 tl gedroogde peterselie toe en roer."
+    },
+    {
+      "onderdeel": "Onder druk garen",
+      "stap": 6,
+      "tekst": "Sluit het deksel, zet het ventiel op Sealing en kies Pressure Cook / High, 5 minuten. Druk opbouwen duurt circa 10–15 minuten."
+    },
+    {
+      "onderdeel": "Onder druk garen",
+      "stap": 7,
+      "tekst": "Laat 10 minuten natuurlijk druk afbouwen; laat daarna de resterende druk voorzichtig ontsnappen."
+    },
+    {
+      "onderdeel": "Afwerken",
+      "stap": 8,
+      "tekst": "Kies Cancel en pureer met een staafmixer in de binnenpan circa 2–3 minuten helemaal glad."
+    },
+    {
+      "onderdeel": "Afwerken",
+      "stap": 9,
+      "tekst": "Roer het sap van ½ citroen erdoor en breng op smaak met zout, zwarte peper en eventueel meer gemalen chilipeper."
+    }
+  ]
+}
